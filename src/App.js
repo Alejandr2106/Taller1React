@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const componente = <h1>Hola mundo</h1>;
   return (
     <div className="App">
       <header className="App-header">
